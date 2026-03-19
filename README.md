@@ -4,6 +4,7 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
+<img width="371" height="651" alt="image" src="https://github.com/user-attachments/assets/e71a2718-c000-4e25-8d0a-eb793fa2b4d4" />
 
 
 ## DESIGN STEPS
